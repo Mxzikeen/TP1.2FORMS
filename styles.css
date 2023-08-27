@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(42, 42, 42);
+}
+.header {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 20px auto;
+  color: purple;
+  border-radius: 10px;
+  background-color: white;
+  display: block;
+  width: 50%;
+  
+  
+}
+
+form {
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+form input {
+  background-color: white;
+  display: block;
+  margin-bottom: 25px;
+  padding: 5px;
+  text-align: center;
+  width: 200px;
+  border-radius: 10px;
+}
+form button {
+  border-radius: 15px;
+  background-color: white;
+  color: black;
+}
